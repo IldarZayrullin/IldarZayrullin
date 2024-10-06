@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+🔭 I’m currently doing my research on image recognition on seismic slices 
+
+**Key Points:**
+  - 🐍Python
+  - ⭐️Git
+  - 🤖Chatbot
+  - 💿SQL
+
+
 <!--
 **IldarZayrullin/IldarZayrullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
